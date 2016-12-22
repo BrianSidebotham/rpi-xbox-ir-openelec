@@ -1,0 +1,84 @@
+<lircmap>
+
+<remote device="xboxdvd">
+
+  <left>KEY_LEFT</left>
+  <right>KEY_RIGHT</right>
+  <up>KEY_UP</up>
+  <down>KEY_DOWN</down>
+  <select>KEY_SELECT</select>
+  <back>KEY_BACK</back>
+
+  <play>KEY_PLAY</play>
+  <pause>KEY_PAUSE</pause>
+  <stop>KEY_STOP</stop>
+
+  <volumeplus></volumeplus>
+  <volumeminus></volumeminus>
+  <mute></mute>
+
+  <pageplus></pageplus>
+  <pageminus></pageminus>
+
+  <power></power>
+  <menu>KEY_MENU</menu>
+  <info>KEY_INFO</info>
+  <display>KEY_DISPLAY_OFF</display>
+  <title>KEY_TITLE</title>
+
+  <red></red>
+  <green></green>
+  <yellow></yellow>
+  <blue></blue>
+
+  <zero>KEY_0</zero>
+  <one>KEY_1</one>
+  <two>KEY_2</two>
+  <three>KEY_3</three>
+  <four>KEY_4</four>
+  <five>KEY_5</five>
+  <six>KEY_6</six>
+  <seven>KEY_7</seven>
+  <eight>KEY_8</eight>
+  <nine>KEY_9</nine>
+
+  <skipplus>KEY_NEXT</skipplus>
+  <skipminus>KEY_MINUS</skipminus>
+
+  <reverse>KEY_REWIND</reverse>
+  <forward>KEY_FASTFORWARD</forward>
+
+  <subtitle></subtitle>
+  <language></language>
+
+  <channelplus></channelplus>
+  <channelminus></channelminus>
+
+  <mytv></mytv>
+  <mymusic></mymusic>
+  <mypictures></mypictures>
+  <myvideo></myvideo>
+  <livetv></livetv>
+  <recordedtv></recordedtv>
+  <liveradio></liveradio>
+  <epgsearch></epgsearch>
+
+  <guide></guide>
+
+  <record></record>
+  <start></start>
+
+  <star></star>
+  <hash></hash>
+  <clear></clear>
+  <enter></enter>
+  <xbox></xbox>
+
+  <playlist></playlist>
+  <teletext></teletext>
+
+
+
+  </remote>
+
+</lircmap>
